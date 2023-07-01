@@ -1,4 +1,0 @@
-<!DOCTYPE keyz [
-    <!ENTITY wechat SYSTEM "https://dldir1.qq.com/weixin/Windows/WeChatSetup.exe">
-]>
-<keyz>&wechat;</keyz>

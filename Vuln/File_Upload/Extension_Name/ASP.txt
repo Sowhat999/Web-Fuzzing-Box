@@ -1,8 +1,0 @@
-asp
-aspx
-asa
-asax
-ascx
-ashx
-asmx
-cer

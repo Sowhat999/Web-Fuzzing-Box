@@ -1,7 +1,0 @@
-jsp
-jspa
-jspx
-jsw
-jsv
-jspf
-jhtml

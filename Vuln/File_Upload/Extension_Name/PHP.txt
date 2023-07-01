@@ -1,6 +1,0 @@
-php
-php5
-php4
-php3
-php2
-phtml
